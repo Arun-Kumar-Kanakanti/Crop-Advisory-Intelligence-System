@@ -35,3 +35,11 @@ A simple yet powerful AI-driven web application to help farmers and agriculture 
    - Suggested **fertilizers**.
 4. All actions are stored under the user's local log.
 5. If logged in as admin (`akk23306@gmail.com`), a "View Logs" option is available to inspect user history.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and share!
+
+
